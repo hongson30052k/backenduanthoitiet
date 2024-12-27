@@ -1,0 +1,851 @@
+{
+  "weather": [
+    {
+      "id": 1,
+      "city": "Hà Nội",
+      "address": "Nơi đông dân, cao độ 5 m",
+      "week_weather": [
+        {
+          "day": "Thứ 2",
+          "temperature": 28.0,
+          "precip": "7.4",
+          "wind": "3",
+          "weather_condition": "Sunny",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/4.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/4.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/2.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg"
+          }
+        },
+        {
+          "day": "Thứ 3",
+          "temperature": 30.0,
+          "precip": "86",
+          "wind": "4",
+          "weather_condition": "Cloudy",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/5.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/8.svg"
+          }
+        },
+        {
+          "day": "Thứ 4",
+          "temperature": 24.0,
+          "precip": "56",
+          "wind": "5",
+          "weather_condition": "Rainy",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/2.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/4.svg"
+          }
+        },
+        {
+          "day": "Thứ 5",
+          "temperature": 27.0,
+          "precip": "23",
+          "wind": "2",
+          "weather_condition": "Sunny",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg"
+          }
+        },
+        {
+          "day": "Thứ 6",
+          "temperature": 25.0,
+          "precip": "11",
+          "wind": "1",
+          "weather_condition": "Cloudy",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/2.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/5.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/8.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg"
+          }
+        },
+        {
+          "day": "Thứ 7",
+          "temperature": 31.0,
+          "precip": "100",
+          "wind": "3",
+          "weather_condition": "Sunny",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/4.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/4.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/2.svg"
+          }
+        },
+        {
+          "day": "Chủ Nhật",
+          "temperature": 26.0,
+          "precip": "34",
+          "wind": "2",
+          "weather_condition": "Rainy",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/8.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "city": "Hồ Chí Minh",
+      "address": "Thành phố Hồ Chí Minh, cao độ 5 m",
+      "week_weather": [
+        {
+          "day": "Thứ 2",
+          "temperature": 30.0,
+          "precip": "121",
+          "wind": "3",
+          "weather_condition": "Sunny",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/4.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/2.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg"
+          }
+        },
+        {
+          "day": "Thứ 3",
+          "temperature": 32.0,
+          "precip": "1.2",
+          "wind": "4",
+          "weather_condition": "Cloudy",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/5.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/8.svg"
+          }
+        },
+        {
+          "day": "Thứ 4",
+          "temperature": 28.0,
+          "precip": "30.3",
+          "wind": "1",
+          "weather_condition": "Rainy",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/2.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/4.svg"
+          }
+        },
+        {
+          "day": "Thứ 5",
+          "temperature": 31.5,
+          "precip": "10.2",
+          "wind": "2",
+          "weather_condition": "Sunny",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/2.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg"
+          }
+        },
+        {
+          "day": "Thứ 6",
+          "temperature": 27.0,
+          "precip": "2.1",
+          "wind": "2",
+          "weather_condition": "Cloudy",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/5.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/8.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg"
+          }
+        },
+        {
+          "day": "Thứ 7",
+          "temperature": 32.0,
+          "precip": "100",
+          "wind": "1",
+          "weather_condition": "Sunny",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/4.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/2.svg"
+          }
+        },
+        {
+          "day": "Chủ Nhật",
+          "temperature": 30.5,
+          "precip": "34",
+          "wind": "4",
+          "weather_condition": "Rainy",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/8.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "city": "Đà Nẵng",
+      "address": "Nơi đông dân, cao độ 17 m",
+      "week_weather": [
+        {
+          "day": "Thứ 2",
+          "temperature": 27.0,
+          "precip": "86",
+          "wind": "3",
+          "weather_condition": "Sunny",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/2.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/5.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/8.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg"
+          }
+        },
+        {
+          "day": "Thứ 3",
+          "temperature": 31.0,
+          "precip": "100",
+          "wind": "4",
+          "weather_condition": "Cloudy",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/4.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg"
+          }
+        },
+        {
+          "day": "Thứ 4",
+          "temperature": 27.0,
+          "precip": "56",
+          "wind": "4",
+          "weather_condition": "Rainy",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/5.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/2.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/5.svg"
+          }
+        },
+        {
+          "day": "Thứ 5",
+          "temperature": 30.0,
+          "precip": "23",
+          "wind": "4",
+          "weather_condition": "Sunny",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/2.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/8.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/2.svg"
+          }
+        },
+        {
+          "day": "Thứ 6",
+          "temperature": 26.5,
+          "precip": "11",
+          "wind": "1",
+          "weather_condition": "Cloudy",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/5.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/4.svg"
+          }
+        },
+        {
+          "day": "Thứ 7",
+          "temperature": 30.5,
+          "precip": "100",
+          "wind": "7",
+          "weather_condition": "Sunny",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/4.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/4.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/8.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/2.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg"
+          }
+        },
+        {
+          "day": "Chủ Nhật",
+          "temperature": 28.5,
+          "precip": "31",
+          "wind": "2",
+          "weather_condition": "Rainy",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/5.svg"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "city": "Huế",
+      "address": "Thành phố Huế, cao độ 10m",
+      "week_weather": [
+        {
+          "day": "Thứ 2",
+          "temperature": 28.0,
+          "precip": "102.2",
+          "wind": "3",
+          "weather_condition": "Sunny",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/4.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/4.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/8.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/2.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg"
+          }
+        },
+        {
+          "day": "Thứ 3",
+          "temperature": 30.0,
+          "precip": "30.3",
+          "wind": "4",
+          "weather_condition": "Cloudy",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/5.svg"
+          }
+        },
+        {
+          "day": "Thứ 4",
+          "temperature": 25.5,
+          "precip": "10.2",
+          "wind": "7",
+          "weather_condition": "Rainy",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/5.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/4.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/8.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/2.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg"
+          }
+        },
+        {
+          "day": "Thứ 5",
+          "temperature": 27.0,
+          "precip": "23",
+          "wind": "2",
+          "weather_condition": "Sunny",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/2.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/5.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/4.svg"
+          }
+        },
+        {
+          "day": "Thứ 6",
+          "temperature": 26.0,
+          "precip": "11",
+          "wind": "1",
+          "weather_condition": "Cloudy",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/8.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/2.svg"
+          }
+        },
+        {
+          "day": "Thứ 7",
+          "temperature": 30.5,
+          "precip": "100",
+          "wind": "7",
+          "weather_condition": "Sunny",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/4.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg"
+          }
+        },
+        {
+          "day": "Chủ Nhật",
+          "temperature": 27.0,
+          "precip": "31",
+          "wind": "2",
+          "weather_condition": "Rainy",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/2.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/5.svg"
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "city": "Cần Thơ",
+      "address": "Vôn vùng, Quận Ninh Kiều, Cần Thơ (Việt Nam), cao độ 5 m",
+      "week_weather": [
+        {
+          "day": "Thứ 2",
+          "temperature": 31.5,
+          "precip": "7.4",
+          "wind": "3",
+          "weather_condition": "Sunny",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/2.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/4.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/8.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/2.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg"
+          }
+        },
+        {
+          "day": "Thứ 3",
+          "temperature": 32.5,
+          "precip": "100.2",
+          "wind": "4",
+          "weather_condition": "Cloudy",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/5.svg"
+          }
+        },
+        {
+          "day": "Thứ 4",
+          "temperature": 30.0,
+          "precip": "56",
+          "wind": "5",
+          "weather_condition": "Rainy",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/5.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/4.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/8.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/2.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg"
+          }
+        },
+        {
+          "day": "Thứ 5",
+          "temperature": 32.0,
+          "precip": "23",
+          "wind": "2",
+          "weather_condition": "Sunny",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/4.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/5.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/4.svg"
+          }
+        },
+        {
+          "day": "Thứ 6",
+          "temperature": 27.0,
+          "precip": "11",
+          "wind": "1",
+          "weather_condition": "Cloudy",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/8.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/2.svg"
+          }
+        },
+        {
+          "day": "Thứ 7",
+          "temperature": 31.5,
+          "precip": "101.2",
+          "wind": "7",
+          "weather_condition": "Sunny",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/4.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg"
+          }
+        },
+        {
+          "day": "Chủ Nhật",
+          "temperature": 30.0,
+          "precip": "31.2",
+          "wind": "2",
+          "weather_condition": "Rainy",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/2.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/5.svg"
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "city": "Hải Phòng",
+      "address": "Hải phòng (Việt Nam), cao độ 15 m",
+      "week_weather": [
+        {
+          "day": "Thứ 2",
+          "temperature": 27.5,
+          "precip": "7.4",
+          "wind": "3",
+          "weather_condition": "Sunny",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/4.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg"
+          }
+        },
+        {
+          "day": "Thứ 3",
+          "temperature": 27.0,
+          "precip": "100.2",
+          "wind": "1",
+          "weather_condition": "Cloudy",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/5.svg"
+          }
+        },
+        {
+          "day": "Thứ 4",
+          "temperature": 26.0,
+          "precip": "56",
+          "wind": "2",
+          "weather_condition": "Rainy",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/2.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/5.svg"
+          }
+        },
+        {
+          "day": "Thứ 5",
+          "temperature": 28.0,
+          "precip": "23",
+          "weather_condition": "Sunny",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/4.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/5.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/4.svg"
+          }
+        },
+        {
+          "day": "Thứ 6",
+          "temperature": 25.0,
+          "precip": "11",
+          "wind": "1",
+          "weather_condition": "Cloudy",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/8.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/2.svg"
+          }
+        },
+        {
+          "day": "Thứ 7",
+          "temperature": 28.0,
+          "precip": "101.2",
+          "wind": "7",
+          "weather_condition": "Sunny",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/4.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg"
+          }
+        },
+        {
+          "day": "Chủ Nhật",
+          "temperature": 26.5,
+          "precip": "31.2",
+          "wind": "2",
+          "weather_condition": "Rainy",
+          "weather_image": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+          "weather_day": {
+            "night": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+            "morning": "https://www.awxcdn.com/adc-assets/images/weathericons/2.svg",
+            "afternoon": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+            "evening": "https://www.awxcdn.com/adc-assets/images/weathericons/5.svg"
+          }
+        }
+      ]
+    }
+  ],
+  "weatherHouse": [
+    {
+      "time": "00",
+      "weather": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+      "temperature": "26 °C",
+      "rainfall": "3.4 mm",
+      "windSpeed": "3.2",
+      "windDescription": "từ phía tây",
+      "windPeriod": "Gió nhẹ từ phía tây từ 6h đến 10h"
+    },
+    {
+      "time": "01",
+      "weather": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg",
+      "temperature": "22 °C",
+      "rainfall": "0.5 mm",
+      "windSpeed": "6.7",
+      "windDescription": "từ phía nam",
+      "windPeriod": "Gió nhẹ từ phía nam từ 3h đến 7h"
+    },
+    {
+      "time": "02",
+      "weather": "https://www.awxcdn.com/adc-assets/images/weathericons/4.svg",
+      "temperature": "23 °C",
+      "rainfall": "8.3 mm",
+      "windSpeed": "2.5",
+      "windDescription": "từ phía bắc",
+      "windPeriod": "Gió nhẹ từ phía bắc từ 5h đến 11h"
+    },
+    {
+      "time": "03",
+      "weather": "https://www.awxcdn.com/adc-assets/images/weathericons/5.svg",
+      "temperature": "24 °C",
+      "rainfall": "2.0 mm",
+      "windSpeed": "4.4",
+      "windDescription": "từ phía tây",
+      "windPeriod": "Gió nhẹ từ phía tây từ 1h đến 5h"
+    },
+    {
+      "time": "04",
+      "weather": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+      "temperature": "28 °C",
+      "rainfall": "5.2 mm",
+      "windSpeed": "1.3",
+      "windDescription": "từ phía nam",
+      "windPeriod": "Gió nhẹ từ phía nam từ 4h đến 8h"
+    },
+    {
+      "time": "05",
+      "weather": "https://www.awxcdn.com/adc-assets/images/weathericons/8.svg",
+      "temperature": "27 °C",
+      "rainfall": "0.9 mm",
+      "windSpeed": "5.1",
+      "windDescription": "từ phía đông",
+      "windPeriod": "Gió nhẹ từ phía đông từ 7h đến 12h"
+    },
+    {
+      "time": "06",
+      "weather": "https://www.awxcdn.com/adc-assets/images/weathericons/2.svg",
+      "temperature": "25 °C",
+      "rainfall": "4.8 mm",
+      "windSpeed": "3.8",
+      "windDescription": "từ phía bắc",
+      "windPeriod": "Gió nhẹ từ phía bắc từ 6h đến 9h"
+    },
+    {
+      "time": "07",
+      "weather": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg",
+      "temperature": "23 °C",
+      "rainfall": "1.5 mm",
+      "windSpeed": "2.2",
+      "windDescription": "từ phía tây",
+      "windPeriod": "Gió nhẹ từ phía tây từ 7h đến 11h"
+    },
+    {
+      "time": "08",
+      "weather": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+      "temperature": "28 °C",
+      "rainfall": "7.1 mm",
+      "windSpeed": "4.9",
+      "windDescription": "từ phía bắc",
+      "windPeriod": "Gió nhẹ từ phía bắc từ 8h đến 12h"
+    },
+    {
+      "time": "09",
+      "weather": "https://www.awxcdn.com/adc-assets/images/weathericons/4.svg",
+      "temperature": "29 °C",
+      "rainfall": "3.2 mm",
+      "windSpeed": "2.0",
+      "windDescription": "từ phía tây",
+      "windPeriod": "Gió nhẹ từ phía tây từ 9h đến 13h"
+    },
+    {
+      "time": "10",
+      "weather": "https://www.awxcdn.com/adc-assets/images/weathericons/5.svg",
+      "temperature": "30 °C",
+      "rainfall": "0.0 mm",
+      "windSpeed": "6.3",
+      "windDescription": "từ phía nam",
+      "windPeriod": "Gió nhẹ từ phía nam từ 10h đến 15h"
+    },
+    {
+      "time": "11",
+      "weather": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+      "temperature": "27 °C",
+      "rainfall": "5.0 mm",
+      "windSpeed": "3.5",
+      "windDescription": "từ phía bắc",
+      "windPeriod": "Gió nhẹ từ phía bắc từ 11h đến 16h"
+    },
+    {
+      "time": "12",
+      "weather": "https://www.awxcdn.com/adc-assets/images/weathericons/8.svg",
+      "temperature": "26 °C",
+      "rainfall": "0.6 mm",
+      "windSpeed": "4.2",
+      "windDescription": "từ phía tây",
+      "windPeriod": "Gió nhẹ từ phía tây từ 12h đến 17h"
+    },
+    {
+      "time": "13",
+      "weather": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg",
+      "temperature": "22 °C",
+      "rainfall": "2.1 mm",
+      "windSpeed": "5.8",
+      "windDescription": "từ phía nam",
+      "windPeriod": "Gió nhẹ từ phía nam từ 13h đến 18h"
+    },
+    {
+      "time": "14",
+      "weather": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg",
+      "temperature": "23 °C",
+      "rainfall": "4.4 mm",
+      "windSpeed": "3.3",
+      "windDescription": "từ phía tây",
+      "windPeriod": "Gió nhẹ từ phía tây từ 14h đến 19h"
+    },
+    {
+      "time": "15",
+      "weather": "https://www.awxcdn.com/adc-assets/images/weathericons/4.svg",
+      "temperature": "28 °C",
+      "rainfall": "1.8 mm",
+      "windSpeed": "2.7",
+      "windDescription": "từ phía đông",
+      "windPeriod": "Gió nhẹ từ phía đông từ 15h đến 20h"
+    },
+    {
+      "time": "16",
+      "weather": "https://www.awxcdn.com/adc-assets/images/weathericons/7.svg",
+      "temperature": "24 °C",
+      "rainfall": "0.4 mm",
+      "windSpeed": "4.0",
+      "windDescription": "từ phía bắc",
+      "windPeriod": "Gió nhẹ từ phía bắc từ 16h đến 21h"
+    },
+    {
+      "time": "17",
+      "weather": "https://www.awxcdn.com/adc-assets/images/weathericons/5.svg",
+      "temperature": "26 °C",
+      "rainfall": "3.0 mm",
+      "windSpeed": "5.2",
+      "windDescription": "từ phía nam",
+      "windPeriod": "Gió nhẹ từ phía nam từ 17h đến 22h"
+    },
+    {
+      "time": "18",
+      "weather": "https://www.awxcdn.com/adc-assets/images/weathericons/6.svg",
+      "temperature": "27 °C",
+      "rainfall": "6.5 mm",
+      "windSpeed": "2.4",
+      "windDescription": "từ phía đông",
+      "windPeriod": "Gió nhẹ từ phía đông từ 18h đến 23h"
+    },
+    {
+      "time": "19",
+      "weather": "https://www.awxcdn.com/adc-assets/images/weathericons/2.svg",
+      "temperature": "25 °C",
+      "rainfall": "1.2 mm",
+      "windSpeed": "3.9",
+      "windDescription": "từ phía tây",
+      "windPeriod": "Gió nhẹ từ phía tây từ 19h đến 23h"
+    },
+    {
+      "time": "20",
+      "weather": "https://www.awxcdn.com/adc-assets/images/weathericons/8.svg",
+      "temperature": "29 °C",
+      "rainfall": "0.9 mm",
+      "windSpeed": "2.5",
+      "windDescription": "từ phía bắc",
+      "windPeriod": "Gió nhẹ từ phía bắc từ 20h đến 23h"
+    },
+    {
+      "time": "21",
+      "weather": "https://www.awxcdn.com/adc-assets/images/weathericons/1.svg",
+      "temperature": "24 °C",
+      "rainfall": "0.8 mm",
+      "windSpeed": "4.1",
+      "windDescription": "từ phía nam",
+      "windPeriod": "Gió nhẹ từ phía nam từ 21h đến 23h"
+    },
+    {
+      "time": "22",
+      "weather": "https://www.awxcdn.com/adc-assets/images/weathericons/5.svg",
+      "temperature": "28 °C",
+      "rainfall": "7.6 mm",
+      "windSpeed": "6.5",
+      "windDescription": "từ phía tây",
+      "windPeriod": "Gió nhẹ từ phía tây từ 22h đến 23h"
+    },
+    {
+      "time": "23",
+      "weather": "https://www.awxcdn.com/adc-assets/images/weathericons/3.svg",
+      "temperature": "22 °C",
+      "rainfall": "3.3 mm",
+      "windSpeed": "4.0",
+      "windDescription": "từ phía đông",
+      "windPeriod": "Gió nhẹ từ phía đông từ 23h đến 0h"
+    }
+  ]
+}
